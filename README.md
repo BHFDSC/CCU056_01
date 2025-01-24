@@ -1,11 +1,15 @@
-# Project name
+# Surgical and transcatheter aortic valve interventions for aortic stenosis in England: sociodemographic variations in treatment trends and outcome over 20 years
+
+**Anvesha Singh, Fionna Chalmers, Saadia Aslam, Thomas Bolton, Anna Stevenson, Iain Squire, Kamlesh Khunti, Gerry P McCann, Claire Lawson, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
 
 ## Project description
 
-Description will be added here.
+Aortic stenosis (AS), or narrowing of the aortic valve, is the commonest reason for having heart valve surgery in the west, that causes poor quality of life and death, if untreated. It affects ~1-in-20 adults aged >65, but the exact number and characteristics of those affected is unknown. The only treatment is to replace the valve, either through open heart surgery: surgical aortic valve replacement (SAVR) or less invasive, ‘keyhole’ approach called transcatheter aortic valve implantation (TAVI).
+
+Differences in treatment and outcomes in people from ethnic minorities and poorer backgrounds have been reported. The Covid-19 pandemic has highlighted, and possibly increased health inequalities in the UK.
 
 ## How to cite this work
-> Citation details to follow
+Singh A, Chalmers F, Aslam S, et alSurgical and transcatheter aortic valve interventions for aortic stenosis in England: sociodemographic variations in treatment trends and outcome over 20 yearsHeart Published Online First: 27 November 2024. doi: https://doi.org/10.1136/heartjnl-2024-324918
 
 ## Contents
 
